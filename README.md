@@ -4,7 +4,7 @@ Welcome to Placeholderr!
 
 
 
-Placeholderr is a pure, javascript based animated placeholder plugin, that works perfectly in all major browsers. 
+Placeholderr is a jQUery based animated placeholder plugin, that works perfectly in all major browsers. 
 [Demo][1].
 
 
